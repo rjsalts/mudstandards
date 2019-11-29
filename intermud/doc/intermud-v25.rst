@@ -532,3 +532,32 @@ Optional requests / modules
 These modules are completely optional and their availability at the discretion
 of the operator of a peer.
 
+channel
+^^^^^^^
+Has mandatory field CHANNEL which lists the channel name.
+An optional field CMD with the value of one of emote, history, list or ack
+
+finger
+^^^^^^
+
+locate
+^^^^^^
+
+find
+^^^^
+
+man
+^^^
+
+mail
+^^^^
+
+tell
+^^^^
+
+who
+^^^
+
+
+
+
